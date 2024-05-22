@@ -1,2 +1,2 @@
 # Python (convert program)
-Temperature and Distance convertation
+Temperature and Distance units convertation
