@@ -1,2 +1,2 @@
-# python-projector-6.2
+# Python (convert program)
 Temperature and Distance convertation
